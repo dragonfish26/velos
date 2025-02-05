@@ -26,12 +26,12 @@ This project simulates a **bike-sharing system**, similar to Vélib or V'Lille, 
 
 1. Clone the repository:
 ```
-git clone git@gitlab-etu.fil.univ-lille.fr:nathan.cordenier.etu/coo_cordenier_batbaatar.git coo
+git clone git@github.com:dragonfish26/velos.git velos
 ```
 
 Place yourself in the cloned directory:
 ```
-cd coo
+cd velos
 ```
 2. To generate the documentation:
 
