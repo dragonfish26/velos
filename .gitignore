@@ -1,0 +1,43 @@
+# Fichiers Java compilés
+*.class
+
+# Répertoires de build
+/build/
+/target/
+
+# Répertoires maven
+.mvn/
+**/mvnw
+**/mvnw.cmd
+
+# Répertoires Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+tmp/
+
+# Visual Studio Code
+.vscode/
+
+# Ignorer les fichiers de configuration système
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers générés par des IDEs et des environnements locaux
+*.swp
+*~
+
